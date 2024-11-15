@@ -30,8 +30,25 @@ This Banking Management System is a console-based application that allows for th
 - Open the project in your C++ IDE or compile the files using your C++ compiler.
 - Run the executable file generated after compilation.
 
+
 ## File Structure
-- **Bank.cpp**: contain all functions,classes of the project.
+- **Bank_Management.cpp**: Implementation file containing all function definitions for the project.
+- **Bank_Account_Data.txt**: Text file to store bank customer records.
+- **ATM_Data.txt**: Text file to store ATM card records.
+- **Bank_Management.exe**: Pre-compiled .exe file, Directly run the application. 
+
+## Components and Concepts
+- **Classes and Objects**
+- **File Handling**
+- **Standard Library Components**
+- **Console Input/Output**
+- **Error Handling and Validation**
+- **User Interface**
+
+## Default Login Credentials
+- **Username**: 'admin'
+- **PIN**: '12345'
+
 
 ## Usage
 
