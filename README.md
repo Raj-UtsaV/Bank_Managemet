@@ -70,16 +70,26 @@ This Banking Management System is a console-based application that allows for th
 - **Deactivate ATM Card**: Deactivate an existing ATM card and update the customer record.
 - **Retrieve ATM Information**: Retrieve and display ATM card details using the customer ID and PIN.
 
-## Code Examples
+## **Code Examples**
 
-### Menu Function
-
-![Screenshot](https://github.com/Raj-UtsaV/Bank_Managemet/blob/main/img2.png)
 
 ### Bank Management Function
 
-![Screenshot](https://github.com/Raj-UtsaV/Bank_Managemet/blob/main/Img1.png)
+![Img1](https://github.com/Raj-UtsaV/Bank_Managemet/blob/main/Img1.png)
 
-### ATM Management Function
 
-![Screenshot](https://github.com/Raj-UtsaV/Bank_Managemet/blob/main/img3.png)
+## **Preview**
+
+
+### Menu
+
+![menu](https://github.com/Raj-UtsaV/Bank_Managemet/blob/main/menu.png)
+
+### Banking Management System
+
+![bank](https://github.com/Raj-UtsaV/Bank_Managemet/blob/main/bank.png)
+
+### ATM
+
+![atm](https://github.com/Raj-UtsaV/Bank_Managemet/blob/main/atm.png)
+
