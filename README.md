@@ -93,3 +93,7 @@ This Banking Management System is a console-based application that allows for th
 
 ![atm](https://github.com/Raj-UtsaV/Bank_Managemet/blob/main/atm.png)
 
+## Author 
+
+- [@Raj-UtsaV](https://github.com/Raj-UtsaV)
+
